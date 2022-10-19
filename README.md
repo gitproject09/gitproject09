@@ -7,18 +7,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
 
 <br />
-Hi, I'm [Sopan Ahmed](https://sopan-ahmed.web.app/), a passionate self-taught Software engineer with 7+ years of experience from Bangladesh. Working as an Android developer since 2015, and enjoy collaborating with the different product areas: scrum, refinement, UI/UX. I have extensive work experience on Mobile Application Development, Development Planning, Wireframing, Agile Development, and Team Lead. Have a passion for code craftsmanship and design. Love to make great products specially which impact on people's everyday life.
 
-I value the following aspects from a company and role:
-• Make things simple.
-• Challenging projects.
-• Great values and teammates.
-• Room to mentor my peers.
-• Next-generation technologies and its impact on software as a service.
-• Growth opportunities, career plan, feedback, and goals.
-• Focus on the customer/end-user, customer satisfaction, and quality assurance.
-• Data-driven decision making, analysis of metrics, and monitoring product usage in production.
-
+<p>Hi, I'm [Sopan Ahmed](https://sopan-ahmed.web.app/), a passionate self-taught Software engineer with 7+ years of experience from Bangladesh. Working as an Android developer since 2015, and enjoy collaborating with the different product areas: scrum, refinement, UI/UX. I have extensive work experience on Mobile Application Development, Development Planning, Wireframing, Agile Development, and Team Lead. Have a passion for code craftsmanship and design. Love to make great products specially which impact on people's everyday life.</p>
+<p>I value the following aspects from a company and role:<br />&bull; Make things simple.<br />&bull; Challenging projects.<br />&bull; Great values and teammates.<br />&bull; Room to mentor my peers.<br />&bull; Next-generation technologies and its impact on software as a service.<br />&bull; Growth opportunities, career plan, feedback, and goals.<br />&bull; Focus on the customer/end-user, customer satisfaction, and quality assurance.<br />&bull; Data-driven decision making, analysis of metrics, and monitoring product usage in production.</p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
