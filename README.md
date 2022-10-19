@@ -1,13 +1,15 @@
 ### About Me
 - [Sopan Ahmed](https://sopan-ahmed.web.app/)
 - [linkedin/SopanAhmed](https://www.linkedin.com/in/sopan-ahmed-abaa8714a/)
-![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
+
+-![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&count_private=true&theme=dark" alt="gitproject09" />
 
-### My Stacks
 <p align="center"> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="GIF" />
+### My Stacks
+
 #### Languages: Java | C | Javascript | SQL
 
 #### Frontend: HTML | CSS
