@@ -1,9 +1,9 @@
 ### About Me
 <a href="https://sopan-ahmed.web.app/">
-  <img align="left" alt="Sopan's Website" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/web.svg" />
+  <img align="left" alt="Sopan's Website" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sopan-ahmed-abaa8714a/">
-  <img align="left" alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sopan's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
@@ -13,8 +13,9 @@
 <br />
 <p align="center"> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="GIF" />
 <br />
-### My Stacks
 
+##
+### My Stacks
 #### Languages: Java | C | Javascript | SQL
 
 #### Frontend: HTML | CSS
