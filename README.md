@@ -1,6 +1,5 @@
 ### About Me
 - [Sopan Ahmed](https://sopan-ahmed.web.app/)
-- [linkedin/SopanAhmed](https://www.linkedin.com/in/sopan-ahmed-abaa8714a/)
 #
 <a href="https://www.linkedin.com/in/sopan-ahmed-abaa8714a/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -12,7 +11,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&count_private=true&theme=dark" alt="gitproject09" />
 <br />
 <p align="center"> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="GIF" />
-<br />
+#
 ### My Stacks
 
 #### Languages: Java | C | Javascript | SQL
