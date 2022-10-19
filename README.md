@@ -1,55 +1,41 @@
-### Hey there 
+### About Me
+- [Sopan Ahmed](https://sopan-ahmed.web.app/)
+- [linkedin/SopanAhmed](https://www.linkedin.com/in/sopan-ahmed-abaa8714a/)
 
-<a href="https://www.linkedin.com/in/sopan-ahmed-abaa8714a/">
-  <img align="left" alt="Sopan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&count_private=true&theme=dark" alt="gitproject09" />
 
-Hi, I'm [Sopan Ahmed](https://sopan-ahmed.web.app/), a passionate self-taught Software engineer with 7+ years of experience from Bangladesh. Working as an Android developer since 2015, and enjoy collaborating with the different product areas: scrum, refinement, UI/UX. I have extensive work experience on Mobile Application Development, Development Planning, Wireframing, Agile Development, and Team Lead. Have a passion for code craftsmanship and design. Love to make great products specially which impact on people's everyday life.
+### My Stacks
+#### Languages: Java | C | Javascript | SQL
 
-I value the following aspects from a company and role:
-- Make things simple for Challenging projects.
-- Great values, teammates & room to mentor my peers.
-- Next-generation technologies and its impact on software as a service.
-- Growth opportunities, career plan, feedback, and goals.
-- Focus on the customer/end-user, customer satisfaction, and quality assurance.
-- Data-driven decision making, analysis of metrics, and monitoring product usage in production.
+#### Frontend: HTML | CSS
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any freelance work? do reach, [email](mailto:spn.ahmed92@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+#### Backend: Firebase | JWT Auth
 
-**Languages and Tools:**  
-
+#### Others: Git | Github | Latex | Linux
+ 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+## My Handles
+ [<img src="https://img.shields.io/badge/gitproject09-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sopan-ahmed-abaa8714a/)
+ [<img src="https://img.shields.io/badge/gitproject09-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/gitproject09) 
 
-```text
-Java         9 hrs 47 mins   ███████████████████░░░░░░   76.46 %
-HTML         1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-JavaScript   1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-```
-
-<!--END_SECTION:waka-->
-
-🚧 **My Todo list stats:**
-<!-- TODO-IST:START -->          
-🌸  Completed 1 tasks today           
-✅  Completed 273 tasks so far           
-⏳  Longest streak is 5 days
-<!-- TODO-IST:END -->
-
-
-📈 **My github stats:**  
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&theme=gotham" alt="gitproject09" />
+![Profile views](https://gpvc.arturio.dev/gitproject09)
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitproject09&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ 
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=gitproject09&theme=react-dark)](https://github.com/gitproject09/github-readme-activity-graph)
+ 
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitproject09&theme=dark&layout=compact&align=right&width=40%)](https://github.com/gitproject09/github-readme-stats)
+  
+- 💼 Any freelance work? do reach, [email](mailto:spn.ahmed92@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
