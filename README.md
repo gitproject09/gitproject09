@@ -1,8 +1,8 @@
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ### About Me
 - [Sopan Ahmed](https://sopan-ahmed.web.app/)
 - [linkedin/SopanAhmed](https://www.linkedin.com/in/sopan-ahmed-abaa8714a/)
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&count_private=true&theme=dark" alt="gitproject09" />
@@ -25,8 +25,6 @@
 ## My Handles
  [<img src="https://img.shields.io/badge/gitproject09-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sopan-ahmed-abaa8714a/)
  [<img src="https://img.shields.io/badge/gitproject09-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/gitproject09) 
-
-![Profile views](https://gpvc.arturio.dev/gitproject09)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitproject09&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
