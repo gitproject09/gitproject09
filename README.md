@@ -1,5 +1,3 @@
-[![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitproject09)](https://github.com/gitproject09/github-readme-stats)
-
 ![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gitproject09&repo=github-readme-stats)](https://github.com/gitproject09/github-readme-stats)
