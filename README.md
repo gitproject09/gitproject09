@@ -1,16 +1,24 @@
-### Hi there 👋
+[![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitproject09)](https://github.com/gitproject09/github-readme-stats)
 
-<!--
-**gitproject09/gitproject09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitproject09&hide=contribs,prs)
 
-Here are some ideas to get you started:
+![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitproject09&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true)
+
+![Sopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gitproject09&repo=github-readme-stats)](https://github.com/gitproject09/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitproject09)](https://github.com/gitproject09/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitproject09&exclude_repo=github-readme-stats,gitproject09.github.io)](https://github.com/gitproject09/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitproject09&langs_count=8)](https://github.com/gitproject09/github-readme-stats)
+
+<a href="https://github.com/gitproject09/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitproject09&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/gitproject09/MaterialAnimationsDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitproject09&repo=MaterialAnimationsDemo" />
+</a>
