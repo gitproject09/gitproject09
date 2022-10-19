@@ -1,12 +1,13 @@
 ### About Me
-- [Sopan Ahmed](https://sopan-ahmed.web.app/)
-#
+<a href="https://sopan-ahmed.web.app/">
+  <img align="left" alt="Sopan's Website" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <a href="https://www.linkedin.com/in/sopan-ahmed-abaa8714a/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
-
+#
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&count_private=true&theme=dark" alt="gitproject09" />
 <br />
