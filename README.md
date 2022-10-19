@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gitproject09.visitor-badge)
 
-Hi, I'm [Sopan Ahmed] (https://sopan-ahmed.web.app/), a passionate self-taught Software engineer with 7+ years of experience from Bangladesh. Working as an Android developer since 2015, and enjoy collaborating with the different product areas: scrum, refinement, UI/UX. I have extensive work experience on Mobile Application Development, Development Planning, Wireframing, Agile Development, and Team Lead. Have a passion for code craftsmanship and design. Love to make great products specially which impact on people's everyday life.
+Hi, I'm [Sopan Ahmed](https://sopan-ahmed.web.app/), a passionate self-taught Software engineer with 7+ years of experience from Bangladesh. Working as an Android developer since 2015, and enjoy collaborating with the different product areas: scrum, refinement, UI/UX. I have extensive work experience on Mobile Application Development, Development Planning, Wireframing, Agile Development, and Team Lead. Have a passion for code craftsmanship and design. Love to make great products specially which impact on people's everyday life.
 
 I value the following aspects from a company and role:
 - Make things simple for Challenging projects.
