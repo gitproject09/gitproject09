@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 Any freelance work? do reach, [email](mailto:spn.ahmed92@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -39,7 +39,7 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **My Todo list stats:**
 <!-- TODO-IST:START -->          
 🌸  Completed 0 tasks today           
 ✅  Completed 273 tasks so far           
@@ -47,6 +47,6 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 My github stats
+📈 **My github stats:**  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&theme=gotham" alt="gitproject09" />
