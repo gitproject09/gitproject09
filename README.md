@@ -7,6 +7,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitproject09&show_icons=true&count_private=true&theme=dark" alt="gitproject09" />
 
 ### My Stacks
+<p align="center"> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="GIF" />
 #### Languages: Java | C | Javascript | SQL
 
 #### Frontend: HTML | CSS
@@ -14,7 +15,7 @@
 #### Backend: Firebase | JWT Auth
 
 #### Others: Git | Github | Latex | Linux
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
