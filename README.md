@@ -16,13 +16,15 @@
 
 ##
 ### My Stacks
-#### Languages: Java | C | Javascript | SQL
+#### Languages: C | Java | Kotlin | Javascript | Groovy | PHP | Python | MATLAB
 
-#### Frontend: HTML | CSS
+#### Frontend: HTML | CSS | Latex | Javascript
 
-#### Backend: Firebase | JWT Auth
+#### Backend: Java | Javascript | PHP | Firebase | JWT Auth
 
-#### Others: Git | Github | Latex | Linux
+#### Database: MySQL | SQLite | Firebase Realtime DB, FireStore | MongoDB | Room
+
+#### Others: Git | Github | Bit Bucket | Linux
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
