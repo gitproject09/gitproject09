@@ -18,11 +18,13 @@
 ### My Stacks
 #### Languages: C | Java | Kotlin | Javascript | Groovy | PHP | Python | MATLAB
 
-#### Frontend: HTML | CSS | Latex | Javascript
+#### Frontend: HTML | CSS | Latex | Javascript | Angular
 
-#### Backend: Java | Javascript | PHP | Firebase | JWT Auth
+#### Backend: Java | Spring Boot | Javascript | PHP | Firebase | JWT Auth
 
-#### Database: MySQL | SQLite | Firebase Realtime DB, FireStore | MongoDB | Room
+#### Database: MySQL | SQLite | Firebase Realtime DB, FireStore | MongoDB | PostgreSQL | Room | Realm
+
+#### Cloud Services: Google Cloud Platform | AWS
 
 #### Others: Git | Github | Bit Bucket | Linux
 
