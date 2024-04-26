@@ -20,7 +20,7 @@
 
 #### Frontend: HTML | CSS | Latex | Javascript | Angular
 
-#### Backend: Java | Spring Boot | Javascript | PHP | Firebase | JWT Auth
+#### Backend: Java | Spring Boot | Javascript | PHP | Firebase
 
 #### Database: MySQL | SQLite | Firebase Realtime DB, FireStore | MongoDB | PostgreSQL | Room | Realm
 
